@@ -489,26 +489,6 @@ Potential future enhancements include:
 - Batch document analysis
 - Real-time monitoring dashboard
 
----
-
-## Deployment
-
-The application can be deployed using the following platforms:
-
-### Frontend
-
-- Vercel
-- Netlify
-
-### Backend
-
-- Render
-- Railway
-- AWS
-- Azure
-
-Deployment links can be added below after hosting.
-
 **Frontend**
 
 ```
@@ -520,37 +500,6 @@ https://your-frontend-url
 ```
 https://your-backend-url
 ```
-
----
-
-## Screenshots
-
-Screenshots demonstrating the application should be placed inside the `screenshots` directory.
-
-Suggested screenshots:
-
-- Upload Page
-- Dashboard
-- Risk Assessment
-- Sensitive Data Summary
-- Detection Table
-- AI Summary
-- Chat Assistant
-- Report Download
-
----
-
-## Demo Video
-
-A demonstration video (2–5 minutes) should include:
-
-1. Project overview
-2. Uploading a document
-3. Sensitive data detection
-4. Risk classification
-5. AI-generated summary
-6. Question answering
-7. Report generation
 
 ---
 
