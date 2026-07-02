@@ -1,0 +1,32 @@
+# =========================
+# Python
+# =========================
+backend/venv/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Environment
+backend/.env
+
+# Uploads
+backend/uploads/
+backend/reports/
+backend/vector_db/
+
+# =========================
+# React
+# =========================
+frontend/node_modules/
+frontend/dist/
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log

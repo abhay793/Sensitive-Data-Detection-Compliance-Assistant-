@@ -1,0 +1,15 @@
+Employee
+
+Email: john@gmail.com
+
+Phone: 9876543210
+
+PAN: ABCDE1234F
+
+Aadhaar: 1234 5678 9123
+
+Password: admin123
+
+API_KEY = sk_test_123456
+
+Employee ID: EMP1002
